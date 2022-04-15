@@ -1,5 +1,5 @@
 # parabol-csv2md
-Tiny Deno script to convert Parabol's CSV to Markdown list
+Tiny Deno script to convert [Parabol](https://www.parabol.co/)'s CSV to Markdown list
 
 ## Setup
 
